@@ -1,1 +1,2 @@
-<?php echo "HELLO GIT"; ?>
+<?php echo "HELLO GIT ----------------------- Development mode";
+echo "Testing"; ?>
